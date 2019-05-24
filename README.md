@@ -68,3 +68,5 @@ Your stretch challenge is to write the functionality of a `Carousel` component. 
 * [ ] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
 
 * [ ] If you have finished the above, play around with the styling on all the components, and understand how each is built.
+
+Jared-Womack
